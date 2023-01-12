@@ -7,6 +7,9 @@ a{
     text-decoration: none;
     color: #E5E7EB;
 }
+img{
+    width: 225px;
+}
 .margin{
     margin-left: 48px;
     margin-right: 48px;
@@ -32,9 +35,15 @@ a{
     padding-right: 13px;
     gap: 10px;
 }
+.welcome{
+    display: flex;
+    flex-direction: column;
+}
 .landing{
     background-color: #1F2937;
-    height: 400px;
+    display: flex;
+    flex: 1;
+    justify-content: space-between;
 }
 .info{
     background-color: blanchedalmond;
