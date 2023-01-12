@@ -1,0 +1,30 @@
+body{
+    display: flex;
+    flex-direction: column;
+}
+.header{
+    background-color: #1F2937;
+    height: 400px;
+}
+.landing{
+    background-color: #1F2937;
+    height: 400px;
+}
+.info{
+    background-color: blanchedalmond;
+    height: 400px;
+
+}
+.quote{
+    background-color: #E5E7EB;
+    height: 400px;
+
+}
+.call{
+    background-color: blanchedalmond;
+    height: 400px;
+}
+.footer{
+    background-color: #1F2937;
+    height: 400px;
+}
